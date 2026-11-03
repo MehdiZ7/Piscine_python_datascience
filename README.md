@@ -1,6 +1,6 @@
 # Piscine Python for Data Science
 
-A collection of the 42 "Piscine Python for Data Science" exercises.
+A collection of the five days of the 42 "Piscine Python for Data Science".
 Each day is a set of small exercises that build up from the Python basics to
 data manipulation, image processing, object-oriented programming and
 data-oriented design.
@@ -13,8 +13,7 @@ data-oriented design.
 | `day_1/` | 1 | Array | Arrays, images and filters with NumPy / Pillow |
 | `day_2/` | 2 | DataTable | Loading, manipulating and plotting datasets with pandas |
 | `day_3/` | 3 | Oriented Object Programming | Abstract classes, inheritance, properties, operators |
-| `day_4/` | 4 | Data Oriented Design | Statistics (`ex00`) |
-| `day_5/` | 5 | Data Oriented Design | Statistics, closures, decorators and dataclasses |
+| `day_4/` | 4 | Data Oriented Design | Statistics, closures, decorators and dataclasses |
 
 Each day folder contains its own `README.md` describing the exercises and how
 to run them.
